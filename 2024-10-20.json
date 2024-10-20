@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Peterson",
+  "age": 62,
+  "address": {
+    "street": "Eborid Pike",
+    "city": "Codanwaw",
+    "state": "CT",
+    "zip": "90693"
+  },
+  "contact": {
+    "phone": "(323) 743-8003",
+    "servicePhone": "800111656"
+  },
+  "birthday": "1997-06-08T08:10:11.549Z",
+  "ip": "111.14.198.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Weh asu bimtok fujiw aweneza lowoh fi te ija ohonovve vuzkofis fa. Niwfe wananwak akbubi uma cajopgo taj iw ivebodba ar mokip jubovi ateja gibmo vaapupec. Ubtuj mewetape ogioz lewda hofpij diklihge evfetif ipumom vezevore fafaw uli kuuroje sowrig netju dectap.",
+    "bio": "Kivicamu mahcakes sefrogu et nom agusu cej evmidem sap beh ridan buhi zojob. Ha oroum judu wodbocrar weshaw renij saniiha rasadup gac ze laaf zu ke zidafawu. Eller rok baedome tiluseno uw kurvezu cas owoido rabmas afiwuh ce vimkas zek gud olzokde ha pipadru. Gous wi ageko sebbi ifleti lu lupmeete pivvousa pir mepgun ak naejnac hawujre nagabzej. Tuprudok vacujako fove lup av fuhbe ebparob do so banhe fuwas carpalfud nupvak zeb wih de demdo igi. Jan baluce ge gunivhin zaopgol jewloci epawo jaglen posowve cowiav gi sulvu punrumeca zosciwa he wal wamlak fuwoje. Gag jipmul awhehva etapobnah usduktu dul vefmege peppo tuv so ur tiacugi loafoog olleh ahhu wuz."
+  },
+  "apiKey": "12044f56191385a87583f91925bdb0337678b37115c3db88140a583ba1955702",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
