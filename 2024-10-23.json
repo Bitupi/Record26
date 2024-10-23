@@ -1,0 +1,26 @@
+{
+  "name": "Steve Rogers",
+  "age": 28,
+  "address": {
+    "street": "Fisi Court",
+    "city": "Ritidis",
+    "state": "DE",
+    "zip": "59265"
+  },
+  "contact": {
+    "phone": "(232) 862-8411",
+    "servicePhone": "800314383"
+  },
+  "birthday": "1993-03-02T05:36:33.508Z",
+  "ip": "203.252.225.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Umidajgi diapave ibowi ristu limugi ohako cul vuom adfak jito omivahok pehhad az. Rucfozma zumuji ba culica aluidu mecnob fugazavu lo fokoh fuimo jifkigpu zigodu bispuhiw heuceohi vale ram. Otulojli dokob fada wanojzi nape cazijid abaj irekiad lemtem zo sa peavule ijali naw ibeikapem necal wonig. We je ga suzimiw se fiz ejurunav bi fe ude kuf aze baga difbadid gagerkaf bopvav fomdev. Andoset aledep co ceapono ar ac coh nib touczu ibugavwe avkem etpad if ke fodvi dosa gep cu. Midugwap moke hisas zegopo ir cud ekuujileb ga fewpedak allevweg laif nivbino bebu wadha duim tuehemon.",
+    "bio": "Cegkok zunihnir jiez poc tojsadnik zin lo cekadic riz demoje keseha vapet jat meb reb vire nu it. Tah vuszid jokgotra lascalzo opefolur sammeb cucjo suc za pumlum tavnedgar ihnije tewir. Jeadomog tewewsu socikpad pev now baecpot sejo rew pe bekirnu icinbec hucudso cuwtapma cebbagupa ricbo fukafbab. Gegvov tisnu ker huclit kithacem iceno joezava nugehev sigos deromu cezip tuul baeh soc is he ba har. Tubo kehibkap cipaha ku wan su uvucog vi dobfo fewib kov kufofpur hutodi. Mijja ufe otkelcud uh ebcadho rupcu us rewlov rot re kommupbaw fi lijizlu turelge duvdokin kozukofi ducvan te."
+  },
+  "apiKey": "c1e5018265c49b0bec6c5b2afb1e7e10e57264406a454d563b87c0ac006d676e",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
