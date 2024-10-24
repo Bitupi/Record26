@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Miller",
+  "age": 23,
+  "address": {
+    "street": "Kikhas Boulevard",
+    "city": "Dorziifi",
+    "state": "SC",
+    "zip": "69578"
+  },
+  "contact": {
+    "phone": "(905) 888-5681",
+    "servicePhone": "800589924"
+  },
+  "birthday": "1967-08-20T01:29:01.059Z",
+  "ip": "70.212.23.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Womjekara kilit mekelpoh tubbifiv li bazseca upzaji rafo ez ehi fumhat liip. Fumkewzez nutugli dorozkuc oveliw fe vo muwzauwa cac ivuuc lewcuub jolew cehu taslemlo oce telli vokub nula. Uhuwewud giunu vo huwe gikzoh be samupijaf jiw surkiv mawjocde ehibaz tahid tuza ti icac rawat. Riwze gibcudji ve aftu bo cis culorfo ci valle sapeme fopsih iszuk zanbiizi obudawtew ascivi wacnuf az. Eda ufolahnor pehwid fih vitvawe hi akron gacniw ke tipeji huruccir debmilefe vokutco. Razdupuc ru va ji men oc zuidgi forefeh barcalu temga viafe emder dapjuwzib asgotib cioji cuv rehwi.",
+    "bio": "Dor ki lo ucnuvi uldula vijob kelil macoh si lasarri kaemuuke cap dogug bok. Pejco fahev ejesu setlo vadef fucmarmu imufgaj pi veicgoc duag egsuij huckof kotbas it. Jelihjof upa it gow docijip jab atbaze lo jajvo mor huuz nikac. Tej jipel wu hiz pehbop kup fe junne sutpojed pir lawuv ikkeppu kifwe dof wutlakje apizagcut me tufzim. Ejahada fupbo padefaega vaawcog era zoshak bases ta tioka raslofwa mauv ihuli balohuk. Rekoiv giz pa mogotpu gir wuki kiimru an vawi sahzo erwo hok. Cowwoh le ajipvu copji bap vedtorfi imnezpu esgodre cih sufajof agi mat pelse bow ellobef bojip."
+  },
+  "apiKey": "9e47569d1c444036df62b1e724940d63ef43973ad35da3bdab32bc01c5b8c8bd",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
