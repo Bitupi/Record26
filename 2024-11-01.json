@@ -1,0 +1,26 @@
+{
+  "name": "Ann Roberts",
+  "age": 42,
+  "address": {
+    "street": "Simej Avenue",
+    "city": "Walafca",
+    "state": "OK",
+    "zip": "35552"
+  },
+  "contact": {
+    "phone": "(451) 809-2528",
+    "servicePhone": "800755943"
+  },
+  "birthday": "1978-10-03T02:47:47.608Z",
+  "ip": "41.16.6.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja lisukata amsekor guc emta ehico kiher guz wirirdi wanle kejed jih lizdoc. Mitren ufu ijo kabesu jis okugodbin ed cuddane ojbus ep ru ori ihikaive. Toje padog izoekotu rej vuzunni zuwiisa nepcivi goczagid sapicur folo ihovpoz pub. Olfu olmij ketsil unafeal jokvac cowpemev kal wu akejubgo tinbuw zagi riobrag fevbi nonker uvarju not carkeh agzu. Gi inulud joimbor hopduz hogin jez lotikefu vadboir ma obu moden rej ikoje daw evaeka mejurmuc hemu jakehem.",
+    "bio": "Gatozar ellijrew ju ga doku nofev vordaga ja bu emumven hozgowor monem ofjeldom uh redotewo. Mahog vagseni no milsaeni ifute viparda urulu beji homovab hi ig tutos. Bakpazo ca cosasi bualojat ipbopwo jadip wajuz fuikobe nokfef kiabvuh ti hitemfef satizsu uznovag lal su."
+  },
+  "apiKey": "1c84f74a0ed92d675afaf565ce2f052bbe153d1990e0fc3a93f0f6e1fef15e62",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
