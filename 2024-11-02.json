@@ -1,0 +1,26 @@
+{
+  "name": "Harry Herrera",
+  "age": 18,
+  "address": {
+    "street": "Kitiz Junction",
+    "city": "Atupoal",
+    "state": "UT",
+    "zip": "70710"
+  },
+  "contact": {
+    "phone": "(206) 630-8690",
+    "servicePhone": "800449711"
+  },
+  "birthday": "1986-12-09T04:16:32.112Z",
+  "ip": "170.111.36.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Gah febvem cuezu sejpa avaekpus gojzoc zoliime womzan tem tonic si louso uvci huvkepas heekonat. Siscozar veilmet ben wemzu momomto nut ewapised alo owa jur tawnoso temofub ciwuti irohabla ef. Ofa hat mivus besrejdig ohu wooje penoj raddina ih agse uheruno urvab set cas gicdeavi awi alodub lo.",
+    "bio": "Zozke pane mer jewgur nen huguvwu hi zirpuf ala ra cofhacan luucuije de. Ehasorwu ne akeinuso moanozin mucate rulhobno ju bumir zej ginogek movlivpaj toaw rowaljit. Tisufzud kove junoh dukav delibato dag ulofo biduz osajufcek picbip atsagmam jiar ji fefhap cien. Uk ar fuclod okadiora ni uza nace fulihpi bekejocuv toruj hedep kezvufnit beswuhe dilreup cilwas baw. Kebhutoc apogeg koabroh idfokol ho ifokozba lulofulan zoure puva gukles bofohuh je rowijkan lozfir vi. Zegu vod iji bajeb kiwceogi ew ahdeflef ubar da susec mi piunase vesno ajoodelu ibma nof."
+  },
+  "apiKey": "fc5489c41aa1bfd1bef24009fdc8d4957aad0a7d49a652184b7270b634afd54a",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
