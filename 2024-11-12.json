@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Mullins",
+  "age": 19,
+  "address": {
+    "street": "Olot Key",
+    "city": "Cupupta",
+    "state": "GA",
+    "zip": "44237"
+  },
+  "contact": {
+    "phone": "(860) 325-8471",
+    "servicePhone": "800738123"
+  },
+  "birthday": "1964-04-22T12:05:24.049Z",
+  "ip": "232.174.100.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Rebgusiz ebteged di ucocogwef rutavuot cil tosa kal fivecjow edwatobe zup zo onop. Focvuv dosur dod usga wotelzo vore dahwegfa us umuame usu burat dus siphuc. Om gejeg ve pomile muive dav jefku metmuhuma zikujdu elol ked ohu casiv garjacfot odehiju azjoh cumaz.",
+    "bio": "Guroco uvaez zefidhe beuvdej dub niloc dagsuphe rugzoh abbukleb cedaswe rajama lerukiro. Ifkab senjitoj vofgo ita neervem fijlu jofiw hip bojmi ocholgi ja ra civwigwar hezivez suthuh ifaepevoj vuc. Piz famgu wujag onauz emza mu gaaruuf rektahu suporiv bedlapzo felizbu to womaf luwcazfu pisbuftam fohehtop."
+  },
+  "apiKey": "57ea4c8191630215850487855799ff0f71d21b3c29dfbbe1e3a91a153f7fdd53",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
