@@ -1,0 +1,26 @@
+{
+  "name": "Luke Ruiz",
+  "age": 35,
+  "address": {
+    "street": "Ravse Highway",
+    "city": "Pekowjac",
+    "state": "MD",
+    "zip": "39042"
+  },
+  "contact": {
+    "phone": "(455) 857-9910",
+    "servicePhone": "800393467"
+  },
+  "birthday": "1995-08-03T02:27:31.462Z",
+  "ip": "171.0.113.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Bef na fozadit kitlopo fit orreb se banra aci iwones gencusut wubgo fo niagu fate izoej. Me doroni bemkuhga du agfepbir uvajes veg ef iz midaw gelil ogabu. Geti zukog ave hugesi saaci fojdow vud vumemot oc rabsic acajun ez jehofub kol dudozu jabatu jus.",
+    "bio": "Eli ves anizu kadmi cah arerajwit tongucoj to fogosho oggekwo zinpefema miwuveev. Hiid ef ezibir cow cosnugoc ra afocsek gipajukah lic subded jupbauh av me zo uwabocoz. Lomdof wakedze bib ewudesbih wim saubhu inecetde negiv bu daloj zisovo ep su wimpat. Fair aciav wa hew ha so winkolvi joolkun vugu sifo dib sap asesic."
+  },
+  "apiKey": "cf1e130faa9b6bc4d74bb838ee91cb56b271f4ee0da32350df16ec99523a5d4b",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
