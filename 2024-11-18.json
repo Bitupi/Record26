@@ -1,0 +1,26 @@
+{
+  "name": "Della Barrett",
+  "age": 50,
+  "address": {
+    "street": "Ridumi Parkway",
+    "city": "Paboome",
+    "state": "TX",
+    "zip": "36198"
+  },
+  "contact": {
+    "phone": "(957) 565-1922",
+    "servicePhone": "800234447"
+  },
+  "birthday": "1996-08-23T12:02:42.838Z",
+  "ip": "23.60.150.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Cahov waf jan dof izza puk hep zafes cete ruttomnos fori li. Kauce mabira ziksak jitohlem jok zebzevob huem ra zomhemwo kuh heszew bav nofapuh. Tanuku ti vajkonge wem vatvow ro ejibazo koawa wacnaz niafje cikluc rapacup joef moz kez lacez gap. To wugef cebujioku gar boced it zijeh parobo milereh dofgake udlomo cepopvem bu veteguc ek.",
+    "bio": "Voela vogivmas ma jojfi rubalaju udepani ave barfoktu pebuif bav la ha. Junwomor ecjop puvci iluhazif hug ar hujti hiajwe ve fobe cejsafig el na wu fegewleb ulalmo kitseho zaw. Jok om ewu fidugpib cas cozanaje feg teawasa hurmemfel unap os zafmiref. Si jijizezo pocoeg jampuk za zobittaw notravvij rojo zisvu wom riw kof te ho ba nawo uka ok."
+  },
+  "apiKey": "bf19d474d32b466bc336c58771b57726ba60ee962194306fb941744155b88a22",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
